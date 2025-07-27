@@ -15,7 +15,6 @@ This repository is my personal chronicle of learning modern graphics programming
 
 ## 🎥 Current Progress 🎥
 
-*(To display this, place your `awesomeface_anim.gif` file in the same root directory as this README.)*
 <p align="center">
   <img src="awesomeface_anim.gif" alt="A demonstration of texture mixing controlled by keyboard input" width="600"/>
 </p>
